@@ -30,7 +30,7 @@ def decode_hex(data: str) -> str:
 
 
 def main():
-    print("--- kimleb's Chef ---")
+    print("--- (use any name you prefer) ---")
     print("Available Formats:")
     print("1. Base64")
     print("2. Hexadecimal")

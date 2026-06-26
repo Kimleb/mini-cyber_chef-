@@ -41,7 +41,7 @@ Encoding "hello world" to Base64
 
 text
 
-    --- Mini CyberChef ---
+    --- (prefered name)---
     Available Formats:
     1. Base64
     2. Hexadecimal
